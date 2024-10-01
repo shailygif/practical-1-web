@@ -1,0 +1,266 @@
+practical 2 mt list html...
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>LISTICLES</title>
+<link rel="stylesheet" href="my-list-style.css">
+</head>
+
+<body>
+
+<div class="head">
+  <div class="heading">
+      CCET (DG):
+  </div>
+  <div class="subheading">
+      on-campus bevrages you should be drinking
+  </div>
+  <div class="icon">
+
+  </div>
+
+<div class="ishpreet02">
+  <p><b><u>ishpreet</u></b>
+    <br>
+    <div class="ishpreet02">
+</div>
+  </p>
+</div>
+</div>
+</body>
+<!-- for the first item -->
+
+  <div class="item1">
+    <div class="para1">
+      <div class="flex1">
+        1.
+      </div>
+      <div class="flex2">
+       Bubble Tea at bites
+      </div>
+    </div>
+    <div class="address1">
+      <a>Near Block A, CCET(DG), Sector 26</a>
+    </div>
+  </div>
+  
+
+  <div class="content1">
+    <div class="paragraph1">
+     <p>Bubble tea most commonly consists of tea accompanied by chewy tapioca balls ("boba" or "pearls"), but it can be made with other toppings as well, such as grass jelly, aloe vera, red bean, and popping boba. It has many varieties and flavors, but the two most popular varieties are pearl black milk tea and pearl green milk tea ("pearl" for the tapioca balls at the bottom).</p>
+        <div class="reco1">
+          <p><b>Recommendation:</b></p>
+          <p>Raspberry lemon
+          </p>
+        </div>
+     </div>
+     
+  </div>
+  <div class="image1">
+    <img src="c:\Users\shaily\OneDrive\Desktop\Boba_Milk_Tea.jpg" alt="Italian soda" height="580" >
+
+  </div>
+ </div>
+
+
+<!-- for second item -->
+
+<div class="item2">
+<div class="para2">
+  <div class="flex3">
+     2.
+  </div>
+  <div class="flex4">
+    HOT coho-coffee at daily heaven
+  </div>
+</div>
+<div class="address2">
+  <a>Near Block A, CCET(DG), Sector 26</a>
+</div>
+</div>
+<div class="content2">
+<div class="paragraph2">
+ <p>What is a Chocolate Coffee
+  Chocolate coffee is a beverage that combines coffee and cocoa. Unlike caffe mocha, it does not use espresso and milk to create a latte-like drink. While variations of chocolate coffee may also use milk and sweeteners, this drink really puts the flavor of cocoa and coffee at the forefront. After all, we already have chocolate-coated coffee beans, so why not enjoy them as a drink?</p>
+    <div class="reco2">
+      <p><b>Recommendation:</b></p>
+      <p>Classic coho-coffee  + an order of sandwhich.
+
+      </p>
+    </div>
+ </div>
+ 
+</div>
+<div class="image2">
+<img src="c:\Users\shaily\OneDrive\Desktop\practical 2 coffee benifits.jpeg" alt="Bubble Tea" height="580" >
+
+</div>
+<!-- for third item -->
+<div class="item3">
+<div class="para3">
+  <div class="flex5">
+     3. Iced tea at tea tower
+  </div>
+  <div class="flex6">
+    
+
+  </div>
+</div>
+<div class="address3">
+  <a>Near Block A, CCET(DG), Sector 26</a>
+</div>
+</div>
+<div class="content3">
+<div class="paragraph3">
+ <p>Iced tea provides all of the same benefits as regular black tea, due to its concentrations of caffeine, polyphenols, catechins, antioxidants, vitamins, and minerals. Unsweetened teas, or those served with lemon or lime, tend to be the healthiest varieties, as they contain fewer calories and sugars.</p>
+    <div class="reco3">
+      <p><b>Recommendation:</b></p>
+      <p>lemonade iced tea
+
+      </p>
+    </div>
+ </div>
+ 
+</div>
+<div class="image3">
+<img src="<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>LISTICLES</title>
+<link rel="stylesheet" href="my-list-style.css">
+</head>
+
+<body>
+
+<div class="head">
+  <div class="heading">
+      CCET (DG):
+  </div>
+  <div class="subheading">
+      on-campus bevrages you should be drinking
+  </div>
+  <div class="icon">
+
+  </div>
+
+<div class="shaily59">
+  <p><b><u>shaily</u></b>
+    <br>
+    <div class="shaily59">
+</div>
+  </p>
+</div>
+</div>
+</body>
+<!-- for the first item -->
+
+  <div class="item1">
+    <div class="para1">
+      <div class="flex1">
+        1.
+      </div>
+      <div class="flex2">
+       Bubble Tea at bites
+      </div>
+    </div>
+    <div class="address1">
+      <a>Near Block A, CCET(DG), Sector 26</a>
+    </div>
+  </div>
+  
+
+  <div class="content1">
+    <div class="paragraph1">
+     <p>Bubble tea most commonly consists of tea accompanied by chewy tapioca balls ("boba" or "pearls"), but it can be made with other toppings as well, such as grass jelly, aloe vera, red bean, and popping boba. It has many varieties and flavors, but the two most popular varieties are pearl black milk tea and pearl green milk tea ("pearl" for the tapioca balls at the bottom).</p>
+        <div class="reco1">
+          <p><b>Recommendation:</b></p>
+          <p>Raspberry lemon
+          </p>
+        </div>
+     </div>
+     
+  </div>
+  <div class="image1">
+    <img src="c:\Users\shaily\OneDrive\Desktop\Boba_Milk_Tea.jpg" alt="Italian soda" height="580" >
+
+  </div>
+ </div>
+
+
+<!-- for second item -->
+
+<div class="item2">
+<div class="para2">
+  <div class="flex3">
+     2.
+  </div>
+  <div class="flex4">
+    HOT coho-coffee at daily heaven
+  </div>
+</div>
+<div class="address2">
+  <a>Near Block A, CCET(DG), Sector 26</a>
+</div>
+</div>
+<div class="content2">
+<div class="paragraph2">
+ <p>What is a Chocolate Coffee
+  Chocolate coffee is a beverage that combines coffee and cocoa. Unlike caffe mocha, it does not use espresso and milk to create a latte-like drink. While variations of chocolate coffee may also use milk and sweeteners, this drink really puts the flavor of cocoa and coffee at the forefront. After all, we already have chocolate-coated coffee beans, so why not enjoy them as a drink?</p>
+    <div class="reco2">
+      <p><b>Recommendation:</b></p>
+      <p>Classic coho-coffee  + an order of sandwhich.
+
+      </p>
+    </div>
+ </div>
+ 
+</div>
+<div class="image2">
+<img src="c:\Users\shaily\OneDrive\Desktop\practical 2 coffee benifits.jpeg" alt="Bubble Tea" height="580" >
+
+</div>
+<!-- for third item -->
+<div class="item3">
+<div class="para3">
+  <div class="flex5">
+     3. Iced tea at tea tower
+  </div>
+  <div class="flex6">
+    
+
+  </div>
+</div>
+<div class="address3">
+  <a>Near Block A, CCET(DG), Sector 26</a>
+</div>
+</div>
+<div class="content3">
+<div class="paragraph3">
+ <p>Iced tea provides all of the same benefits as regular black tea, due to its concentrations of caffeine, polyphenols, catechins, antioxidants, vitamins, and minerals. Unsweetened teas, or those served with lemon or lime, tend to be the healthiest varieties, as they contain fewer calories and sugars.</p>
+    <div class="reco3">
+      <p><b>Recommendation:</b></p>
+      <p>lemonade iced tea
+
+      </p>
+    </div>
+ </div>
+ 
+</div>
+<div class="image3">
+<img src="c:\Users\shaily\OneDrive\Desktop\practical 2 my list image.webp" alt="coho coffee" height="580" >
+
+
+</body>
+
+</html>" alt="coho coffee" height="" >
+580
+
+</body>
+
+</html>
